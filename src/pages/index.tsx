@@ -15,7 +15,6 @@ export default function Home() {
             y: getRandomNum(100, 5),
         });
     }
-    console.log(pos);
     return (
         <>
             <Head>
